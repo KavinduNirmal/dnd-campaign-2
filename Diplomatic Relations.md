@@ -1,0 +1,10 @@
+| Kingdom  | South     | Ret       | Linland   | Sidmin    | Bing      | Marshia   | Neringia  | Rivendale   |
+| -------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| South    | x         | Rival     | Suspicion | Ally      | Friendly  | Neutral   | Enemy     | Neutral   |
+| Ret      | Rival     | x         | Suspicion | Friendly  | Suspicion | Neutral   | Neutral   | Rival     |
+| Linland  | Suspicion | Suspicion | x         | Rival     | Rival     | Neutral   | Vassal    | Ally      |
+| Sidmin   | Ally      | Friendly  | Rival     | x         | Rival     | Suspicion | Suspicion | Suspicion |
+| Bing     | Friendly  | Suspicion | Rival     | Rival     | x         | Suspicion | Rival     | Enemy     |
+| Marshia  | Neutral   | Neutral   | Neutral   | Suspicion | Suspicion | x         | Friendly  | Friendly  |
+| Neringia | Enemy     | Neutral   | Suzerain  | Suspicion | Rival     | Friendly  | x         | Neutral   |
+| Rivendale  | Neutral   | Rival     | Ally      | Suspicion | Enemy     | Friendly  | Neutral   | x         |
